@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QTimer</string>
+    <string name="editText">Enter minutes (x,x,.x) where x= minutes</string>
+</resources>
